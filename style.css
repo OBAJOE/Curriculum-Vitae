@@ -1,0 +1,62 @@
+.body{ 
+    background-color: grey;
+    margin: 50px;
+    padding: 50px;
+    max-width: 900px;
+    max-height: 1500px;
+}
+img{
+    width: 200px;
+    height: 100px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin-left: 45%;
+    margin-right: 26%;
+}
+.name{
+    text-align: center;
+}
+.about,.skills{
+    background-color: white;
+    margin: 30px;
+    padding: 20px;
+}
+.html{
+    background-color:  white;
+    margin-left: 3%;
+    margin-right: 92%;
+}
+.css{
+    background-color: white;
+    margin-left: 3%;
+    margin-right: 93%;
+}
+.javascript{
+    background-color:  white;
+    margin-left: 3%;
+    margin-right: 86%;
+}
+.phyton{
+    background-color:  white;
+    margin-left: 3%;
+    margin-right: 90%;
+}
+.all{
+    display: inline;
+}
+.email{
+    margin-left: 29%;
+    margin-right: 25%;
+    color: rgb(36, 23, 218);
+}
+.footer{
+    text-align: center;
+    color: white
+}
+
+
+
+ 
